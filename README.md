@@ -14,7 +14,7 @@ Think: private allowlists, anonymous voting, private airdrop claims, KYC gating 
 
 ---
 
-## Why it matters (what employers look for)
+## Why it matters 
 This project is intentionally built to showcase protocol-level engineering skills:
 - Designing privacy-preserving protocols with correct threat modeling
 - Building ZK circuits and understanding public vs private inputs
